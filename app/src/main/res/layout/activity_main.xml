@@ -1,6 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/dlsubg">
 
     <!-- Profile Button -->
     <Button
@@ -33,18 +34,18 @@
         android:layout_height="200dp"
         android:layout_below="@id/button_stages"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="70dp"
         android:background="#00008B"/>
 
     <!-- Player Box-->
-    <View
+    <ImageView
         android:id="@+id/player_box"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_below="@id/enemy_box"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
-        android:background="#ADD8E6"/>
+        android:layout_marginTop="40dp"
+        android:src="@drawable/stickman"/>
 
     <!-- Navigation-->
     <LinearLayout
