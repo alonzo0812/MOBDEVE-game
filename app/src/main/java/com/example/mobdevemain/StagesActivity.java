@@ -18,15 +18,18 @@ public class StagesActivity extends AppCompatActivity {
         // Additional logic for MC03 unlocking stages or displaying completion status
         LinearLayout stageContainer = findViewById(R.id.stage_container);
 
-        // Create buttons dynamically
+        // Create buttons
         for (int i = 1; i <= 20; i++) {
             Button stageButton = new Button(this);
             stageButton.setText("Stage " + i);
-            stageButton.setLayoutParams(new LinearLayout.LayoutParams(
+
+            LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT,
-                    LinearLayout.LayoutParams.WRAP_CONTENT));
+                    LinearLayout.LayoutParams.WRAP_CONTENT);
+            params.setMargins(16, 16, 16, 16);
+            stageButton.setPadding(20, 40, 20, 40);
 
-
+            stageButton.setLayoutParams(params);
             stageContainer.addView(stageButton);
         }
 
