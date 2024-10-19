@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Profile Button -->
+    <Button
+        android:id="@+id/button_profile"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:text="P"
+        android:layout_margin="16dp"/>
+        <!--android:background="@drawable/"-->
+
+
+    <!-- Stages (Top Center) -->
+    <Button
+        android:id="@+id/button_stages"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/button_profile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Stages"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FF0000"/>
+
+    <!-- Enemy Box -->
+    <View
+        android:id="@+id/enemy_box"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/button_stages"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#00008B"/>
+
+    <!-- Player Box-->
+    <View
+        android:id="@+id/player_box"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/enemy_box"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#ADD8E6"/>
+
+    <!-- Navigation-->
+    <LinearLayout
+        android:id="@+id/bottom_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:weightSum="3"
+        android:padding="10dp">
+
+        <!-- Shop -->
+        <Button
+            android:id="@+id/button_shop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Shop"/>
+
+        <!-- Achievements -->
+        <Button
+            android:id="@+id/button_achievements"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Achievements"/>
+
+        <!-- Minigame -->
+        <Button
+            android:id="@+id/button_minigame"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Minigame"/>
+    </LinearLayout>
+</RelativeLayout>
