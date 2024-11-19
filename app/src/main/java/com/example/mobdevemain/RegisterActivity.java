@@ -7,6 +7,7 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -35,8 +36,19 @@ public class RegisterActivity extends AppCompatActivity {
         finish();
     }
 
-    public void signUpClicked(View v){
-        Intent i = new Intent(RegisterActivity.this, MainActivity.class);
-        startActivity(i);
+    public void signUpClicked(View v) {
+        SQLiteHelper dbHelper = new SQLiteHelper(this);
+
+        String username = ((TextView) findViewById(R.id.registerUsername)).getText().toString();
+        String password = ((TextView) findViewById(R.id.registerPassword)).getText().toString();
+
+        if (dbHelper.addUser(username, password)) {
+            Toast.makeText(this, "Registration successful!", Toast.LENGTH_SHORT).show();
+            Intent i = new Intent(RegisterActivity.this, LoginActivity.class);
+            startActivity(i);
+        } else {
+            Toast.makeText(this, "Registration failed. Username might already exist.", Toast.LENGTH_SHORT).show();
+        }
     }
+
 }

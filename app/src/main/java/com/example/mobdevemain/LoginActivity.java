@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -25,10 +26,21 @@ public class LoginActivity extends AppCompatActivity {
         registerText = findViewById(R.id.registerLink);
     }
 
-    public void signInClicked(View v){
-        Intent i = new Intent(LoginActivity.this, MainActivity.class);
-        startActivity(i);
+    public void signInClicked(View v) {
+        SQLiteHelper dbHelper = new SQLiteHelper(this);
+
+        String username = ((TextView) findViewById(R.id.usernameInput)).getText().toString();
+        String password = ((TextView) findViewById(R.id.passwordInput)).getText().toString();
+
+        if (dbHelper.checkUser(username, password)) {
+            Intent i = new Intent(LoginActivity.this, MainActivity.class);
+            i.putExtra("username", username); // Pass the username to MainActivity
+            startActivity(i);
+        } else {
+            Toast.makeText(this, "Invalid username or password", Toast.LENGTH_SHORT).show();
+        }
     }
+
 
     public void registerClicked(View v){
         Intent i = new Intent(LoginActivity.this, RegisterActivity.class);
