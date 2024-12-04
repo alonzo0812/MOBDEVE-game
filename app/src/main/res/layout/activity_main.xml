@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/stage1to5bg"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:clickable="true">
+
+    <View
+        android:id="@+id/gesture_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent" />
+    <!-- Profile Button -->
+    <ImageButton
+        android:id="@+id/button_profile"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:text="P"
+        android:layout_margin="16dp"
+        android:src="@drawable/profilebutton"/>
+        <!--android:background="@drawable/"-->
+
+
+    <!-- Stages (Top Center) -->
+    <Button
+        android:id="@+id/button_stages"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/button_profile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Stages"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FF0000"/>
+
+    <TextView
+        android:id="@+id/enemyHealthText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_stages"
+        android:layout_marginTop="16dp"
+        android:text="Enemy Health: 100"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true" />
+    <!-- Enemy Box -->
+    <ImageView
+        android:id="@+id/enemy_box"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/enemyHealthText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/hello_1_1"/>
+
+    <!-- Player Box-->
+    <ImageView
+        android:id="@+id/player_box"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/enemy_box"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/playerimage"/>
+
+    <TextView
+        android:id="@+id/goldText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/player_box"
+        android:layout_marginTop="16dp"
+        android:text="Gold: 0"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/dpsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/goldText"
+        android:layout_marginTop="16dp"
+        android:text="DPS: 0"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true" />
+
+
+    <!-- Navigation-->
+    <LinearLayout
+        android:id="@+id/bottom_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:weightSum="3"
+        android:padding="10dp">
+
+        <!-- Shop -->
+        <ImageButton
+            android:id="@+id/button_shop"
+            android:layout_width="7dp"
+            android:layout_height="92dp"
+            android:layout_weight="1"
+            android:src="@drawable/_shop"
+            android:text="Shop"/>
+
+        <!-- Achievements -->
+        <ImageButton
+            android:id="@+id/button_achievements"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Achievements"
+            android:src="@drawable/_trophy"/>
+
+        <!-- Minigame -->
+        <ImageButton
+            android:id="@+id/button_minigame"
+            android:layout_width="0dp"
+            android:layout_height="92dp"
+            android:layout_weight="1"
+            android:src="@drawable/gem"
+            android:text="Minigame"/>
+    </LinearLayout>
+</RelativeLayout>

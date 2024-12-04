@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_turing_6_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\turing_6_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_js_4_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\js_4_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_login_background_image.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\login_background_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_profilebutton.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\profilebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_sqrt_2_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\sqrt_2_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_nfa_6_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\nfa_6_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_qa_9_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\qa_9_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_linear_7_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\linear_7_4.png"
+    },
+    {
+        "merged": "com.example.mobdevemain.app-debug-31:/layout_activity_achievements.xml.flat",
+        "source": "com.example.mobdevemain.app-main-33:/layout/activity_achievements.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_stages.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_stages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_permutation_3_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\permutation_3_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_tsukimi_rounded_bold.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\tsukimi_rounded_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_hello_1_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\hello_1_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_profile_background_image.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\profile_background_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_binary_6_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\binary_6_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable__shop.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_database_5_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\database_5_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_pandas_8_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\pandas_8_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_combination_3_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\combination_3_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_loops_1_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\loops_1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_thinitalic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_backbtn.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\backbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_rounded_corner_background.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\rounded_corner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_scrum_9_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\scrum_9_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_shop_and_achievements_gui.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\shop_and_achievements_gui.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_prolog_7_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\prolog_7_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_dfa_6_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\dfa_6_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_pointy_sword.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\pointy_sword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_amsterdam_two.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\amsterdam_two.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_bubble_6_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\bubble_6_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_summation_2_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\summation_2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ps_gui_sa_bg.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ps_gui_sa_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_flowchart_1_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\flowchart_1_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_searchdatabase_5_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\searchdatabase_5_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_graph_2_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\graph_2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_gem.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\gem.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_achievements.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_achievements.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_dbmanager_5_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\dbmanager_5_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_html_4_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\html_4_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_matrix_2_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\matrix_2_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_neural_7_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\neural_7_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_trophy.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_logic_3_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\logic_3_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_sql_5_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\sql_5_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_concurency_8_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\concurency_8_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_lightitalic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_r_4_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\r_4_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_oop_1_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\oop_1_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_createdb_5_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\createdb_5_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_b6eeac48f00a3b71a42855856f77338e.jpg.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\b6eeac48f00a3b71a42855856f77338e.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_shop.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_sequence_3_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\sequence_3_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_agile_9_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\agile_9_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ps_gui_sa_final.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ps_gui_sa_final.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_stage1to5bg.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\stage1to5bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ruby_4_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ruby_4_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_waterfall_9_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\waterfall_9_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_db_replica_8_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\db_replica_8_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_playerimage.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\playerimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_blackitalic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_bolditalic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_italic.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_go_4_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\go_4_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ps_gui_sa__1_.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ps_gui_sa__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_array_1_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\array_1_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_machine_7_5.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\machine_7_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_olap_8_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\olap_8_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_log_2_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\log_2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_thin.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_queryopti_8_3.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\queryopti_8_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_black.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_register_background_image.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\register_background_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_cypress_9_4.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\cypress_9_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_ai_7_2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\ai_7_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable__trophy.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\_trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_register_background_image_v2.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\register_background_image_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_profile_image.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-debug-31:\\drawable_set_3_1.png.flat",
+        "source": "C:\\Users\\Leomarc\\.gradle\\daemon\\8.7\\com.example.mobdevemain.app-main-33:\\drawable\\set_3_1.png"
+    }
+]

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/login_background_image"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/gameTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="@font/amsterdam_two"
+        android:gravity="center"
+        android:text="Welcome to CCS Clicker"
+        android:textColor="@android:color/white"
+        android:textSize="36sp" />
+
+    <EditText
+        android:id="@+id/usernameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@android:color/white"
+        android:fontFamily="@font/roboto_regular"
+        android:hint="Username"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/darker_gray" />
+
+    <EditText
+        android:id="@+id/passwordInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@android:color/white"
+        android:fontFamily="@font/roboto_regular"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/darker_gray" />
+
+    <Button
+        android:id="@+id/signInButton"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@android:color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:padding="16dp"
+        android:text="Sign In"
+        android:onClick="signInClicked"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/registerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_black"
+        android:gravity="center"
+        android:text="Don't have an account?"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/registerLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/roboto_bold"
+        android:gravity="center"
+        android:text="REGISTER"
+        android:onClick="registerClicked"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+</LinearLayout>
